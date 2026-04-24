@@ -6,7 +6,7 @@ import { Flame, Star } from "lucide-react"
 const categories = ["Semua", "Chicken", "Burger", "Wrap", "Sides", "Dessert", "Minuman", "Paket"]
 
 const menuItems = [
-  // --- CHICKEN ---
+  
   {
     id: 1,
     name: "Dada Ori",
@@ -89,7 +89,7 @@ const menuItems = [
     img: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/api-attachments/9YhkeC7u1tCk8vGIZXW14-JO1jGf4PMru5Q3XfnQIHof4wUJS8BH.png",
   },
 
-  // --- BURGER ---
+ 
   {
     id: 5,
     name: "Cheese Burger",
@@ -111,7 +111,7 @@ const menuItems = [
     img: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/api-attachments/rPHplttV0JLuq14IyU6tC-LRK4c7k5NLtfzUKucreBKsSctP0nwk.png",
   },
 
-  // --- WRAP ---
+  
   {
     id: 7,
     name: "Chicken Wrap",
@@ -123,7 +123,7 @@ const menuItems = [
     img: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/api-attachments/WKm6pDX1AtsSUeTao1DA1-d6IVL7hMz4SWJBX2lU6tFgqacfbMIs.png",
   },
 
-  // --- SIDES ---
+  
   {
     id: 8,
     name: "Curly Fries",
@@ -165,7 +165,7 @@ const menuItems = [
     img: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/api-attachments/R0gAg6nu0myEORSHX77mQ-BqxhhWGrt47hBW6T5vTR0upVX351OD.jpg",
   },
 
-  // --- DESSERT ---
+  
   {
     id: 12,
     name: "Ice Cone Vanilla",
@@ -197,7 +197,7 @@ const menuItems = [
     img: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/api-attachments/WiJESX6kbcmuegqOFOlf0-uD5jGav9qlwp39PTNdf7cfMwlPLJhi.png",
   },
 
-  // --- MINUMAN ---
+  
   {
     id: 15,
     name: "mango tea",
@@ -229,7 +229,7 @@ const menuItems = [
     img: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/api-attachments/D5uVdJgMlqkoihflYn4tU-u0xZPIgLRRA5GhC6YeBTqTaS6BwISo.png",
   },
 
-  // --- PAKET ---
+  
   {
     id: 17,
     name: "Paket Komplit",
